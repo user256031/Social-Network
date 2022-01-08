@@ -1,0 +1,17 @@
+.item{
+    color: green;
+}
+
+.item img{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin: 5px;
+}
+
+.Like{
+    color: #0D1AE6;
+}
+.likeIcon{
+    width: 25px;
+}
